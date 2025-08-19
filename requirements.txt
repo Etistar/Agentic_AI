@@ -8,3 +8,5 @@ pyppeteer
 python-dotenv
 langchain-openai
 langchain-groq
+arxiv
+wikipedia
